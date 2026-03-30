@@ -47,6 +47,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Repositories\Login\" />
+    <Compile Include="Repositories\Login\D_Usuarios.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repositories\Maestros\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SoftwareGestionNomina.Entities\SoftwareGestionNomina.Entities.csproj">

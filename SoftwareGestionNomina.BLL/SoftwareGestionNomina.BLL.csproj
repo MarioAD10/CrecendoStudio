@@ -46,6 +46,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Services\Login\" />
+    <Compile Include="Services\Login\B_Usuarios.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\Maestros\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SoftwareGestionNomina.DAL\SoftwareGestionNomina.DAL.csproj">

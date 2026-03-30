@@ -46,6 +46,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Entities\Login\" />
+    <Compile Include="Entities\Login\E_Usuarios.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\Maestros\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
