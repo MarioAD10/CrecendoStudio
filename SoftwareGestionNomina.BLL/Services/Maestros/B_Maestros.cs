@@ -8,6 +8,8 @@ using System.Threading.Tasks;
 
 namespace SoftwareGestionNomina.BLL.Services.Maestros
 {
+
+    // Capa de negocios de los maestros
     public class B_Maestros
     {
         D_Maestros objDato = new D_Maestros();
