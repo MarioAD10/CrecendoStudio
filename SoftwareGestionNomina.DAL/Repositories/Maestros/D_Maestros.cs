@@ -10,6 +10,8 @@ using System.Threading.Tasks;
 
 namespace SoftwareGestionNomina.DAL.Repositories.Maestros
 {
+
+    // Capa de datos de los maestros
     public class D_Maestros
     {
         string conexion = ConfigurationManager.ConnectionStrings["Conectar"].ConnectionString;

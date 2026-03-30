@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace SoftwareGestionNomina.Entities.Entities.Maestros
 {
+
+    // Entidades de los maestros
     public class E_Maestros
     {
         private int idMaestro;
